@@ -20,6 +20,9 @@ The analysis utilizes the HR Employee Dataset, which contains comprehensive empl
 
 ### Tools and Methodology
 
+### Data Analysis and Visualization (Using Power BI)[Download Here](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+
 **Power BI:** Power BI is used to create interactive visualizations and a dynamic dashboard, enabling a deep dive into attrition metrics. Power BI’s functionality allows HR users to filter and segment data by key attributes, making it easy to identify trends and patterns.
 
 **Data Processing:** Basic data cleaning and formatting were done within Power BI to ensure consistency in metrics such as age, gender, and attrition counts.
